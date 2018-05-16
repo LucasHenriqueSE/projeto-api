@@ -4,3 +4,4 @@ jdk:
   - oraclejdk8
 env:
   - MAVEN_VERSION=3.2.5
+  - MAVEN_VERSION=3.3.9
