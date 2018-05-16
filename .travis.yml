@@ -5,3 +5,5 @@ jdk:
 env:
   - MAVEN_VERSION=3.2.5
   - MAVEN_VERSION=3.3.9
+before_install:
+  - chmod +x mvnw
