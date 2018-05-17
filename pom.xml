@@ -44,6 +44,7 @@
 		<dependency>
 			<groupId>org.springframework.data</groupId>
 			<artifactId>spring-data-jpa</artifactId>
+			<scope>runtime</scope>
 		</dependency>
 
 		<dependency>
